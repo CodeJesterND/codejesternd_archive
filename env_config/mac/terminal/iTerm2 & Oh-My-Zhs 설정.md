@@ -16,7 +16,7 @@ $ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools
 
 ## 커스터마이징
 
-### 테마 변경
+### 테마 변경
 
 - [테마 목록](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
 
@@ -30,7 +30,7 @@ $ vi ~/.zshrc
 ZSH_THEME="powerlevel10k/powerlevel10k"
 ```
 
-###  테마 설정
+### 테마 설정
 
 ```
 Prompt Style : Rainbow Character
