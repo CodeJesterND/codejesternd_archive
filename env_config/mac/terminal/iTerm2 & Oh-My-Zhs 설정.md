@@ -81,6 +81,8 @@ plugins=(
 )
 ```
 
+<br/>
+
 ### 명령어 하이라이트 기능
 
 - [zsh-syntax highlighter](https://github.com/zsh-users/zsh-syntax-highlighting)
@@ -99,6 +101,8 @@ plugins=(
 		zsh-syntax-highlighting
 )
 ```
+
+<br/>
 
 ### 터미널 프로필 기능
 
