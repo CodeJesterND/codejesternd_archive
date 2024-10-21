@@ -30,6 +30,8 @@ $ vi ~/.zshrc
 ZSH_THEME="powerlevel10k/powerlevel10k"
 ```
 
+<br/>
+
 ### 테마 설정
 
 ```
@@ -47,6 +49,8 @@ Enable Transient Prompt? : N
 Instant Prompt Mode : Verbose
 Apply changes to ~/.zshrc? : y
 ```
+
+<br/>
 
 ### 상태바 활성화
 
