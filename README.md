@@ -1,2 +1,8 @@
-## CodeJesterND Archive
-- 개발 편의성에 대한 정보들을 정리하고 담아두는 곳 :)
+# CodeJesterND Archive
+
+## Env Config
+
+### Mac
+
+#### Terminal Setting
+- [iTerm2 & Oh-My-Zsh 설정](https://github.com/CodeJesterND/codejesternd_archive/blob/main/env_config/mac/terminal/iTerm2%20&%20Oh-My-Zhs%20%EC%84%A4%EC%A0%95.md)
